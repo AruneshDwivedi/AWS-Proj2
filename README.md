@@ -1,4 +1,4 @@
-# Movie Catalogue Visualization Project
+# Movie Catalogue Visualization Project Using AWS Quicksight
 ## Project Overview
 This project demonstrates the use of Amazon S3 and Amazon QuickSight to store, analyze, and visualize a catalogue of TV shows and movies. The project involves uploading data to S3, connecting it to QuickSight, and creating various visualizations to analyze the dataset.
 
